@@ -1,6 +1,4 @@
-# My Amazing 3D Developer Portfolio in React with Three.js
+# My Amazing 3D  Portfolio in React with Three.js
 
-![3D Website](https://imgur.com/undefined)
-
-
+![3D Website](https://ibb.co/6gmw8TM)
 
