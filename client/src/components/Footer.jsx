@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import { socialLinks } from "../constants";
 
 const Footer = () => {
-  const currentYear = new Date().getFullYear();
+ 
 
   return (
     <footer className='footer font-poppins'>
@@ -12,7 +12,7 @@ const Footer = () => {
 
       <div className='footer-container'>
         <p>
-          © {currentYear} <strong>Omofovwe Akpadaka</strong>. All rights reserved.
+          © {new Date().getFullYear()} <strong>Omofovwe Akpadaka</strong>. All rights reserved.
         </p>
 
         <div className='flex gap-3 justify-center items-center'>

@@ -26,6 +26,9 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
+import php from './php.svg'
+import mysql from './mysql.svg'
+
 
 export {
     css,
@@ -55,5 +58,7 @@ export {
     arrow,
     contact,
     soundon,
-    soundoff
+    soundoff,
+    php,
+    mysql
 }

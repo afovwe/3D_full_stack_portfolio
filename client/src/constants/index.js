@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tesla } from "../assets/images";
+import { olx, freelancer, plexum, pethahiah } from "../assets/images";
 import {
     car,
     contact,
@@ -23,7 +23,9 @@ import {
     summiz,
     tailwindcss,
     threads,
-    typescript
+    typescript,
+    php,
+    mysql
 } from "../assets/icons";
 
 export const skills = [
@@ -106,60 +108,71 @@ export const skills = [
         imageUrl: typescript,
         name: "TypeScript",
         type: "Frontend",
+    },
+     {
+        imageUrl: php,
+        name: "PHP",
+        type: "Backend",
+    },
+     {
+        imageUrl: mysql,
+        name: "MYSQL",
+        type: "Backend",
     }
 ];
 
 export const experiences = [
     {
-        title: "React.js Developer",
-        company_name: "Starbucks",
-        icon: starbucks,
+        title: "React/React Native Developer",
+        company_name: "Freelance",
+        icon: freelancer,
         iconBg: "#accbe1",
-        date: "March 2020 - April 2021",
+        date: "March 2024 - Present",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Developed and maintained cross-platform mobile applications using React Native, enhancing user engagement by 25%.",
+            "Implemented state management with Redux, ensuring consistent and efficient application state across components.",
+            "Integrated RESTful APIs to fetch and display data, improving application functionality and user experience.",
+            "Conducted code reviews, optimized performance, and ensured best practices in mobile app development.",
         ],
     },
     {
-        title: "React Native Developer",
-        company_name: "Tesla",
-        icon: tesla,
+        title: "Full stack Developer",
+        company_name: "Plexum",
+        icon: plexum,
         iconBg: "#fbc3bc",
-        date: "Jan 2021 - Feb 2022",
-        points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
+        date: "Jan 2017 - Feb 2023",
+        points: [       
+            "Developed and maintained web applications using React and Node.js, resulting in a 30% increase in user engagement.",
+            "Developing and maintaining web applications using React.js, Angular, Vue, and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
             "Implementing responsive design and ensuring cross-browser compatibility.",
+         
+        ],
+    },
+    {
+        title: "Full stack Developer",
+        company_name: "OLX",
+        icon: olx,
+        iconBg: "#b7e4c7",
+        date: "Dec 2014 - Jan 2017",
+        points: [
+            "Created interactive and responsive web applications using PHP, MySQL, and JavaScript",
+            "Integrated third-party APIs and services to enhance application functionality.",
+            "Implemented RESTful APIs and GraphQL endpoints to enable seamless communication between the front-end and back-end.",
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
     {
         title: "Web Developer",
-        company_name: "Shopify",
-        icon: shopify,
-        iconBg: "#b7e4c7",
-        date: "Jan 2022 - Jan 2023",
-        points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
-        ],
-    },
-    {
-        title: "Full stack Developer",
-        company_name: "Meta",
-        icon: meta,
+        company_name: "Pethahiah Rehoboth INT’L",
+        icon: pethahiah,
         iconBg: "#a2d2ff",
-        date: "Jan 2023 - Present",
+        date: "March 2011 - 2014",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Create custom websites by harnessing HTML, CSS, and JavaScript.",
+            "Boost website performance and stability through planned maintenance and targeted troubleshooting.",
+            "Apply SEO techniques to drive engagement and improve Google rankings.",
+            "Develop and test REST APIs.",
         ],
     },
 ];

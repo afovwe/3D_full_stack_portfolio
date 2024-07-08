@@ -47,10 +47,10 @@ const About = () => {
 
       <div className='py-16'>
         <h3 className='subhead-text'>Work Experience.</h3>
-        <div className='mt-5 flex flex-col gap-3 text-slate-500'>
+        <div className='mt-5 flex flex-col gap-3 text-black'>
           <p>
-            I've worked with all sorts of companies, leveling up my skills and
-            teaming up with smart people. Here's the rundown:
+           I enjoy working in groups, and I'm constantly keen to pick up new skills and technology.         
+   I've gained experience working with several companies, developing my skills and collaborating with intelligent individuals. The summary is as follows:
           </p>
         </div>
 

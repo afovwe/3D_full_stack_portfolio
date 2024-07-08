@@ -1,15 +1,16 @@
 import hero from './hero.jpg'
-import meta from './meta.png'
-import shopify from './shopify.png'
-import starbucks from './starbucks.png'
-import tesla from './tesla.png'
 import logo from './logo.svg'
+import olx from './olx.png'
+import freelancer from './freelancer.png'
+import plexum from './plexum.png'
+import pethahiah from './pethahiah.png'
+
 
 export {
     hero,
-    meta,
-    shopify,
-    starbucks,
-    tesla,
+    olx,
+    freelancer,
+    plexum,
+    pethahiah,
     logo
 }
