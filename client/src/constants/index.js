@@ -200,44 +200,30 @@ export const projects = [
         iconUrl: pricewise,
         theme: 'btn-back-red',
         name: 'Landing Page',
-        description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
+        description: 'My user-centric design approach ensures a seamless experience, combining cutting-edge technology with elegant aesthetics.  See this landing page where innovation meets elegance',
         link: 'https://hoobank-zo98.onrender.com/',
         
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'Full Stack Threads Clone',
-        description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
+        name: 'Full Stack Landing Page',
+        description: 'Increased user engagement by 20% through the development of an engageing and interactive landing page which reflects contemporary design principles.',
         link: 'https://product-landing-page-8qc8.onrender.com/',
     },
     {
         iconUrl: car,
         theme: 'btn-back-blue',
-        name: 'Car Finding App',
-        description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
+        name: 'Animated Apple Iphone 3D Website',
+        description: 'Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..',
         link: 'https://apple-clone-66wt.onrender.com/',
     },
+    
     {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
-        name: 'Full Stack Instagram Clone',
-        description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-        link: 'https://omofovweakpadaka.vercel.app/',
-        
-    },
-    {
-        iconUrl: estate,
-        theme: 'btn-back-black',
-        name: 'Real-Estate Application',
-        description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
-        link: 'https://brainwave-y4a5.onrender.com/',
-    },
-    {
-        iconUrl: summiz,
-        theme: 'btn-back-yellow',
-        name: 'AI Summarizer Application',
-        description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
+        name: 'Brainwave',
+        description: 'Explore the Possibilities of AI Chatting with BrainwaveCurve. AI Chat App for seamless collaboration',
         link: 'https://brainwave-y4a5.onrender.com/',
     }
 ];
