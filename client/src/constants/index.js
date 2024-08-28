@@ -196,7 +196,8 @@ export const socialLinks = [
 ];
 
 export const projects = [
-     {
+    
+       {
         iconUrl: threads,
         theme: 'btn-back-green',
         name: 'A Fintech Bank Application',
