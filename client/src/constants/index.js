@@ -196,6 +196,13 @@ export const socialLinks = [
 ];
 
 export const projects = [
+     {
+        iconUrl: threads,
+        theme: 'btn-back-green',
+        name: 'A Fintech Bank Application',
+        description: 'JF Bank is a financial SaaS platform built using Next.js, TS, Appwrite, Plaid, Dwolla, RHF, Zod, TailwindCSS, Chart.js, and ShadCN for real-time transaction display and financial management.',
+        link: 'https://banking-eight-iota.vercel.app/',
+    },
     {
         iconUrl: pricewise,
         theme: 'btn-back-red',
@@ -225,5 +232,19 @@ export const projects = [
         name: 'Brainwave',
         description: 'Explore the Possibilities of AI Chatting with BrainwaveCurve. AI Chat App for seamless collaboration',
         link: 'https://brainwave-y4a5.onrender.com/',
-    }
+    } //,
+    // {
+    //     iconUrl: estate,
+    //     theme: 'btn-back-black',
+    //     name: 'Real-Estate Application',
+    //     description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
+    //     link: 'https://omofovweakpadaka.vercel.app/',
+    // },
+    // {
+    //     iconUrl: summiz,
+    //     theme: 'btn-back-yellow',
+    //     name: 'AI Summarizer Application',
+    //     description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
+    //     link: 'https://brainwave-y4a5.onrender.com/',
+    // }
 ];
