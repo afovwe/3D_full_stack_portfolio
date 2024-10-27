@@ -233,14 +233,14 @@ export const projects = [
         name: 'Brainwave',
         description: 'Explore the Possibilities of AI Chatting with BrainwaveCurve. AI Chat App for seamless collaboration',
         link: 'https://brainwave-y4a5.onrender.com/',
-    } //,
-    // {
-    //     iconUrl: estate,
-    //     theme: 'btn-back-black',
-    //     name: 'Real-Estate Application',
-    //     description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
-    //     link: 'https://omofovweakpadaka.vercel.app/',
-    // },
+    } ,
+   {
+       iconUrl: estate,
+       theme: 'btn-back-black',
+       name: 'Sturning Landing Page',
+       description: 'This modern business landing page features a simple navigation bar, a 3D hero section, modern features, animated pricing, FAQs, testimonial grid, and a demo and download section with a simple footer.',
+         link: 'https://zora-b7bn.onrender.com',
+     },
     // {
     //     iconUrl: summiz,
     //     theme: 'btn-back-yellow',
